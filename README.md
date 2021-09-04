@@ -27,3 +27,9 @@ pose.py is a program to show 33 points of pose landmarks.
 # posexy.py
 posexy.py is a program to show 33 points of pose landmarks 
 where nose coordinate(x,y) is displayed on the screen.
+
+# fposex.py
+fposex.py is a program working with Arduino firmata.
+The horizontal nose axis is equivalent to pose landmarks[0].
+The horizontal nose axis controls a servo angle.
+
