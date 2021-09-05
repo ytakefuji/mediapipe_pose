@@ -33,3 +33,4 @@ fposeservo.py is a program working with Arduino firmata.
 The nose coordinate (x,y) is equivalent to pose landmarks[0].
 The horizontal nose x-axis with landmarks[0][0] controls a servo angle.
 
+<img src='https://github.com/ytakefuji/mediapipe_pose/blob/main/nose.gif' width=320 heigh=240>
