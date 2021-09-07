@@ -6,7 +6,7 @@ In order to run the programs, you should install mediapipe by:
 $ pip install mediapipe
 
 
-If you have a problem: 
+If you have a problem on Windows 10: 
 
 DLL load failed while importing _framework_binding
 
